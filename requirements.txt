@@ -1,0 +1,8 @@
+conllu
+colorama
+sklearn
+gensim
+pandas
+numpy
+tensorflow
+tensorflow_hub
